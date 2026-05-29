@@ -1,0 +1,16 @@
+HYPER-ROBUST CLEANING AUDIT REPORT
+=================================
+
+Initial Records: 609
+Final Records: 588
+Outliers Removed: 21
+Invalid Ages Removed: 0
+Questionnaire Items Imputed: 44
+
+Target Class Distribution (Adherence):
+ADHERENCE_CLASS
+0      4
+1    103
+2    466
+3     15
+Name: count, dtype: int64
